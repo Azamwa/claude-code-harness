@@ -1,4 +1,4 @@
-# Claude Code Skills
+# Claude Code Harness
 
 Claude Code에서 사용 중인 커맨드, 스킬, 에이전트, 룰 구성 문서.
 
